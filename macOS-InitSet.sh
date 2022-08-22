@@ -14,3 +14,4 @@ brew install --cask cheatsheet
 brew install --cask eclipse-java
 brew install --cask flycut
 brew install --cask spotify-now-playing
+brew install --cask hiddenbar
