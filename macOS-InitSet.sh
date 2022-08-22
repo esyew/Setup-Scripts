@@ -13,3 +13,4 @@ brew install --cask balenaetcher
 brew install --cask cheatsheet
 brew install --cask eclipse-java
 brew install --cask flycut
+brew cask install spotify-now-playing
