@@ -1,4 +1,4 @@
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/vendasta/setup-new-computer-script/master/setup-new-computer.sh)"
 
 brew install --cask github
 brew install handbrake
