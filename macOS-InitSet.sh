@@ -1,5 +1,5 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/vendasta/setup-new-computer-script/master/setup-new-computer.sh)"
-
+xcode-select --install
 brew install --cask github
 brew install handbrake
 brew install google-chrome
