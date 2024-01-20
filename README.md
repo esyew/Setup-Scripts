@@ -6,3 +6,4 @@ Script to run on MacOS
 
 #
 Safari Add-on that allows the P key to work with PiP, requires a custom javascript loader extension.
+Also, just helpful code snippets I made
