@@ -1,0 +1,8 @@
+##div > div > div.theme-gcu > div.min-h-screen.flex.bg-primary.bg-no-repeat.bg-cover > main.max-w-md.px-10.self-center.bg-white.rounded.mx-auto > div.mb-12.mx-auto.cursor-pointer > a > img
+###__next > div > div > div.flex.flex-col.h-fill-screen.bg-main.text-main > div.flex.flex-grow > div > aside > div > div > div > div.overscroll-contain > div > div.flex.items-center.justify-center > div.flex-shrink-0.mx-auto.cursor-pointer.w-52.mt-4 > a > img
+  ###__next > div > div > div.flex.flex-col.h-fill-screen.bg-main.text-main > div.flex.flex-grow > div > aside > div > div > div > div.overscroll-contain > div > div.flex.items-center.justify-center > div.flex-shrink-0.mx-auto.cursor-pointer.w-52.mt-4 > a
+  ###__next > div > div > div.flex.flex-col.h-fill-screen.bg-main.text-main > div.flex.flex-grow > div > aside > div > div > div > div.overscroll-contain > div > div.flex.items-center.justify-center > div:nth-child(2) > a > img
+  ###Home--main > header > div:nth-child(2) > div > a > img
+  ###Home--main > header > div:nth-child(2)
+
+  // These can be used to block the bank ads on the GCU LMS Halo, updated Jan 26, 2024
